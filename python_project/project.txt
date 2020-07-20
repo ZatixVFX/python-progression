@@ -1,0 +1,52 @@
+
+Enter your age: 18
+You are eligible to play
+Predict a number from 1 - 49: 2
+Attempts left:  5
+Predict a number from 1 - 49: 5
+Attempts left:  4
+Predict a number from 1 - 49: 1
+Attempts left:  3
+Predict a number from 1 - 49: 10
+Attempts left:  2
+Predict a number from 1 - 49: 4
+Attempts left:  1
+Predict a number from 1 - 49: 3
+Attempts left:  0
+User's list of unique predictions:  [2, 5, 1, 10, 4, 3]
+Numbers Randomly generated from 1 to 49:  [1, 10, 47, 49, 22, 29]
+These are the numbers you predicted correctly:  {1, 10}
+You won: R20.00
+=====================
+18
+4
+24
+13
+35
+48
+22
+Enter your age: Enter your age: Enter your age: 23
+You are eligible to play
+Predict a number from 1 - 49: 23
+Attempts left:  5
+Predict a number from 1 - 49: 45
+Attempts left:  4
+Predict a number from 1 - 49: 6
+Attempts left:  3
+Predict a number from 1 - 49: 6
+Attempts left:  2
+Predict a number from 1 - 49: 2
+Attempts left:  1
+Predict a number from 1 - 49: 1
+Attempts left:  0
+User's list of unique predictions:  [23, 45, 6, 2, 1]
+Numbers Randomly generated from 1 to 49:  [33, 39, 40, 41, 42, 9]
+These are the numbers you predicted correctly:  set()
+=====================
+18
+5
+2
+8
+9
+20
+7
