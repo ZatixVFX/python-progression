@@ -3,7 +3,7 @@ import random
 import sys
 
 # Open Project.txt and append the code to the file
-sys.stdout = open('project.txt', 'a+')
+#sys.stdout = open('project.txt', 'a+') (optional)
 
 
 # Function used to get user's age and check whether user has met the age requirement to play
